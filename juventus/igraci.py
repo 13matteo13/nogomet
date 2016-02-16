@@ -1,0 +1,1 @@
+print('Direktoriji koji se nalaze u direktorij nogomet su:barca,real,juventus i klubovi.py')
